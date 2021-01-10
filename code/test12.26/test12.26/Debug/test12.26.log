@@ -1,0 +1,4 @@
+﻿  test.c
+f:\c程序\test12.26\test12.26\test.c(237): warning C4715: “Mul”: 不是所有的控件路径都返回值
+  test12.26.vcxproj -> F:\C程序\test12.26\Debug\test12.26.exe
+  test12.26.vcxproj -> F:\C程序\test12.26\Debug\test12.26.pdb (Partial PDB)
