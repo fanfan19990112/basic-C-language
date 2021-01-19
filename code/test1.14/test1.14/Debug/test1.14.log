@@ -1,0 +1,10 @@
+﻿生成启动时间为 2021/1/16 21:48:08。
+     1>项目“D:\C程序\test1.14\test1.14\test1.14.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C程序\test1.14\Debug\test1.14.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\C程序\test1.14\Debug\test1.14.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C程序\test1.14\Debug\test1.14.lib" /MACHINE:X86 Debug\test.obj
+         test1.14.vcxproj -> D:\C程序\test1.14\Debug\test1.14.exe
+     1>已完成生成项目“D:\C程序\test1.14\test1.14\test1.14.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.25
